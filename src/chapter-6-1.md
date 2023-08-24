@@ -1,5 +1,3 @@
-Addressing Concerns about Privacy and Security when Using AI in Education
-===============================================================================================================================================================
 
 As the use of Artificial Intelligence (AI) in education continues to grow, concerns about privacy and security have become increasingly important. In this chapter, we will explore some key considerations for addressing these concerns.
 

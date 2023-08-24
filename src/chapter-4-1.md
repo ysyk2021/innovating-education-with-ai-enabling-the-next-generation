@@ -1,5 +1,3 @@
-Using AI-Powered Tools for Accessibility and Inclusivity, such as Text-to-Speech and Translation Software
-=====================================================================================================================================================================
 
 AI-powered tools can enhance accessibility and inclusivity in education by providing support for students with disabilities or language barriers. These tools can process information in different ways, such as converting text to speech or providing real-time translations, allowing all students to access the same content regardless of their abilities or language proficiency.
 

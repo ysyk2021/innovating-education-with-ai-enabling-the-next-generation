@@ -1,5 +1,3 @@
-What is AI and How Does it Work?
-===============================================================================================
 
 Artificial Intelligence (AI) has the potential to revolutionize education by providing personalized learning experiences, enhancing accessibility and inclusivity, automating administrative processes, enabling predictive analytics, and creating smart tutoring systems. In this chapter, we will explore what AI is and how it works.
 

@@ -1,5 +1,3 @@
-Chapter 1: Understanding AI and Its Applications in Education
-=============================================================
 
 In this chapter, we will explore what AI is and how it works, common applications of AI in education, including personalized learning and adaptive assessments, and examples of successful implementation of AI in education.
 

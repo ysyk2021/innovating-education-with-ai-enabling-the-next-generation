@@ -1,5 +1,3 @@
-Chapter 4: Automating Administrative Tasks with AI
-==================================================
 
 In this chapter, we will explore the potential of artificial intelligence (AI) in automating various administrative tasks within the education sector. By leveraging AI-powered tools and techniques, educational institutions can streamline workflows, enhance efficiency, and provide better support to students. This chapter will cover the following subtopics:
 

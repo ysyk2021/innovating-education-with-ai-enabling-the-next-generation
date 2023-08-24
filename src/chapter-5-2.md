@@ -1,5 +1,3 @@
-Machine Learning-Powered Scheduling and Resource Allocation Techniques to Streamline Workflow
-==================================================================================================================================================
 
 In educational institutions, administrative tasks can take up a significant amount of time and resources. However, with advances in Artificial Intelligence (AI), it is now possible to automate many of these tasks and streamline workflow. In this chapter, we will explore how machine learning-powered scheduling and resource allocation techniques can be used to automate administrative tasks in education.
 

@@ -1,5 +1,3 @@
-Chapter 3: Enhancing Accessibility and Inclusivity with AI
-==========================================================
 
 AI has the potential to enhance accessibility and inclusivity in education by providing tools to support diverse learning needs and promote equitable access to education. In this chapter, we will explore how AI-powered tools can be used for accessibility and inclusivity, including text-to-speech and translation software, machine learning-powered techniques for identifying and addressing learning disabilities, and AI-powered tools for enhancing communication and collaboration.
 

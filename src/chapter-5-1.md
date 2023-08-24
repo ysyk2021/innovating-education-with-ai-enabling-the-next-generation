@@ -1,5 +1,3 @@
-Using AI-Powered Tools for Automating Administrative Tasks, Such as Grading and Record-Keeping
-===================================================================================================================================================
 
 In today's educational institutions, administrative tasks such as grading and record-keeping can be time-consuming and resource-intensive. However, with advances in Artificial Intelligence (AI), it is now possible to automate many of these tasks and streamline workflow. In this chapter, we will explore how AI-powered tools can be used to automate administrative tasks such as grading and record-keeping.
 
