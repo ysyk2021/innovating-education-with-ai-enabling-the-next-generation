@@ -1,5 +1,4 @@
-Chapter 5: Using AI-Powered Tools for Accessibility and Inclusivity
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the era of AI, technology has the potential to greatly enhance accessibility and inclusivity in education. AI-powered tools, such as text-to-speech and translation software, can break down barriers and provide equal opportunities for all learners. In this chapter, we will explore how these AI-enabled tools promote accessibility and inclusivity in education.
 

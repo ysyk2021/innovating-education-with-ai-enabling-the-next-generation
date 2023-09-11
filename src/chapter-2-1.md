@@ -1,5 +1,4 @@
-Chapter 2: What is AI and How Does It Work?
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) is revolutionizing various fields, including education. To understand the potential of AI in education, it is essential to grasp its fundamental concepts and workings. In this chapter, we will explore what AI is and how it works.
 

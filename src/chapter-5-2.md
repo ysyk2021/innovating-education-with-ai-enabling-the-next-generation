@@ -1,5 +1,4 @@
-Chapter 6: Machine Learning-Powered Scheduling and Resource Allocation Techniques to Streamline Workflow
-========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Machine learning (ML) has the potential to optimize scheduling and resource allocation processes in educational institutions, leading to streamlined workflows and improved efficiency. In this chapter, we will explore the implementation of ML-powered techniques for scheduling classes, allocating resources, and managing educational workflows.
 

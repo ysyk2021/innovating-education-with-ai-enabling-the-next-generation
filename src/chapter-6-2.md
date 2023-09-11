@@ -1,5 +1,4 @@
-Chapter 8: Best Practices for Integrating AI into Education while Maintaining Ethical Standards
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Integrating artificial intelligence (AI) into education has the potential to revolutionize teaching and learning processes, making education more personalized, adaptive, and efficient. However, it is crucial to ensure that AI implementation in education aligns with ethical standards to protect students' privacy, promote fairness, and maintain transparency. In this chapter, we will explore the best practices for integrating AI into education while upholding ethical considerations.
 

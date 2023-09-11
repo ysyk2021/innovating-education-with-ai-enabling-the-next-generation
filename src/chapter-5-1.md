@@ -1,5 +1,4 @@
-Chapter 8: Using AI-Powered Tools for Automating Administrative Tasks, such as Grading and Record-Keeping
-=========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has the potential to revolutionize administrative tasks in educational institutions, making processes more efficient, accurate, and time-saving. In this chapter, we will explore the implementation of AI-powered tools for automating administrative tasks, specifically focusing on grading and record-keeping.
 

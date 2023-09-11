@@ -1,5 +1,4 @@
-Chapter 7: Addressing Concerns about Privacy and Security when Using AI in Education
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) becomes increasingly integrated into education, it is essential to address concerns about privacy and security. Safeguarding student data and ensuring the responsible use of AI technologies are paramount to protect the rights and well-being of learners. In this chapter, we will explore strategies for addressing privacy and security concerns when using AI in education.
 

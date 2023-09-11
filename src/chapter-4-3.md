@@ -1,5 +1,4 @@
-Chapter 6: Implementing AI-Powered Tools for Enhancing Communication and Collaboration
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the age of artificial intelligence (AI), innovative technologies are transforming communication and collaboration in education. AI-powered tools offer new opportunities to connect students, educators, and parents, facilitating seamless collaboration and fostering meaningful engagement. In this chapter, we will explore the implementation of AI-powered tools for enhancing communication and collaboration in education.
 
